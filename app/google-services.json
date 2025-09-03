@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "947699160720",
+    "project_id": "miprimerabdd-34afe",
+    "storage_bucket": "miprimerabdd-34afe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947699160720:android:0d58c62816d57f64f22a15",
+        "android_client_info": {
+          "package_name": "com.example.myapplicationdb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWlmMblpCfVLrOQJk4HMpYiLMnFL8LZzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
